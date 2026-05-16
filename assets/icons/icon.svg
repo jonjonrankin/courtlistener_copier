@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="CourtListener Copy Citation">
+  <rect width="128" height="128" rx="24" fill="#172033"/>
+  <path d="M35 25h47l13 13v65H35z" fill="#f8fafc"/>
+  <path d="M82 25v16h16z" fill="#d5dbe5"/>
+  <path d="M47 53h34M47 66h34M47 79h22" stroke="#5f6b7a" stroke-width="6" stroke-linecap="round"/>
+  <rect x="67" y="72" width="33" height="25" rx="6" fill="#2357c6"/>
+  <path d="M77 85h13M84 78v14" stroke="#ffffff" stroke-width="5" stroke-linecap="round"/>
+</svg>

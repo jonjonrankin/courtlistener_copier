@@ -1,0 +1,25 @@
+{
+  "name": "cl_cp",
+  "version": "1.0.0",
+  "description": "CourtListener Copy Citation browser extension",
+  "type": "module",
+  "scripts": {
+    "test": "vitest run",
+    "test:watch": "vitest",
+    "build": "node build.mjs",
+    "build:watch": "node build.mjs --watch",
+    "lint:firefox": "web-ext lint --source-dir dist",
+    "package": "node scripts/package.mjs"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^25.8.0",
+    "esbuild": "^0.28.0",
+    "jsdom": "^29.1.1",
+    "typescript": "^6.0.3",
+    "vitest": "^4.1.6",
+    "web-ext": "^10.3.0"
+  }
+}
