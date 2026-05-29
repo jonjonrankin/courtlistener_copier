@@ -15,13 +15,13 @@ Suggested tags / keywords:
 legal research, citations, CourtListener, law, Bluebook, pincite, clipboard
 
 Homepage URL:
-https://github.com/jonjonrankin/courtlistener_copy
+https://github.com/jonjonrankin/courtlistener_copier
 
 Support URL:
-https://github.com/jonjonrankin/courtlistener_copy/issues
+https://github.com/jonjonrankin/courtlistener_copier/issues
 
 Privacy policy URL:
-https://github.com/jonjonrankin/courtlistener_copy/blob/main/PRIVACY.md
+https://github.com/jonjonrankin/courtlistener_copier/blob/main/PRIVACY.md
 
 Visibility:
 - Chrome Web Store: Unlisted
